@@ -1,0 +1,32 @@
+Source: plasma-volume-control
+Section: kde
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 8.0.0), cmake,
+ extra-cmake-modules,
+ qtbase5-dev,
+ qtdeclarative5-dev,
+ plasma-framework-dev,
+ libkf5configwidgets-dev,
+ libkf5coreaddons-dev,
+ libkf5i18n-dev,
+ libglib2.0-dev,
+ libpulse-dev,
+ pkg-kde-tools,
+ libkf5declarative-dev
+Standards-Version: 3.9.4
+Homepage: http://www.kde.org
+
+Package: plasma-volume-control
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Plasma 5 Volume controller
+ Volume controller for Plasma 5
+
+Package: plasma-volume-control-dbg
+Architecture: any
+Depends: plasma-volume-control (= ${binary:Version}), ${misc:Depends}
+Description: Plasma 5 Volume Controller -- Debug Symbols
+ Volume controller for Plasma 5
+ .
+ Debugging symbols
