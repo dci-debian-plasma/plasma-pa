@@ -2,18 +2,19 @@ Source: plasma-volume-control
 Section: kde
 Priority: optional
 Maintainer: Debian/Kubuntu KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
-Build-Depends: debhelper (>= 8.0.0), cmake,
- extra-cmake-modules,
- qtbase5-dev,
- qtdeclarative5-dev,
- plasma-framework-dev,
- libkf5configwidgets-dev,
- libkf5coreaddons-dev,
- libkf5i18n-dev,
- libglib2.0-dev,
- libpulse-dev,
- pkg-kde-tools,
- libkf5declarative-dev
+Build-Depends: cmake,
+               debhelper (>= 8.0.0),
+               extra-cmake-modules,
+               libglib2.0-dev,
+               libkf5configwidgets-dev,
+               libkf5coreaddons-dev,
+               libkf5declarative-dev,
+               libkf5i18n-dev,
+               libpulse-dev,
+               pkg-kde-tools,
+               plasma-framework-dev,
+               qtbase5-dev,
+               qtdeclarative5-dev
 Standards-Version: 3.9.4
 Homepage: http://www.kde.org
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/plasma-volume-control.git
@@ -21,7 +22,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/plasma-volume-control.git
 
 Package: plasma-volume-control
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Plasma 5 Volume controller
  Volume controller for Plasma 5
 
