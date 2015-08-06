@@ -1,7 +1,7 @@
 Source: plasma-volume-control
 Section: kde
 Priority: optional
-Maintainer: Debian/Kubuntu KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: cmake,
                debhelper (>= 8.0.0),
                extra-cmake-modules,
