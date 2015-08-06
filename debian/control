@@ -1,4 +1,4 @@
-Source: plasma-volume-control
+Source: plasma-pa
 Section: kde
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
@@ -15,21 +15,31 @@ Build-Depends: cmake,
                plasma-framework-dev,
                qtbase5-dev,
                qtdeclarative5-dev
-Standards-Version: 3.9.4
+Standards-Version: 3.9.6
 Homepage: http://www.kde.org
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/plasma-pa.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/plasma-pa.git
 
-Package: plasma-volume-control
+Package: plasma-pa
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Plasma 5 Volume controller
  Volume controller for Plasma 5
 
-Package: plasma-volume-control-dbg
+Package: plasma-pa-dbg
 Architecture: any
-Depends: plasma-volume-control (= ${binary:Version}), ${misc:Depends}
+Depends: plasma-pa (= ${binary:Version}), ${misc:Depends}
 Description: Plasma 5 Volume Controller -- Debug Symbols
  Volume controller for Plasma 5
  .
  Debugging symbols
+
+Package: plasma-volume-control
+Depends: plasma-pa, ${misc:Depends}
+Architecture: all
+Priority: extra
+Section: oldlibs
+Description: transitional dummy package
+ This is a transitional dummy package. It can safely be removed.
+ .
+ Can be dropped after 2015-10.
