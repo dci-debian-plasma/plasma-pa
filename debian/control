@@ -28,6 +28,8 @@ Description: Plasma 5 Volume controller
 
 Package: plasma-pa-dbg
 Architecture: any
+Priority: extra
+Section: debug
 Depends: plasma-pa (= ${binary:Version}), ${misc:Depends}
 Description: Plasma 5 Volume Controller -- Debug Symbols
  Volume controller for Plasma 5
