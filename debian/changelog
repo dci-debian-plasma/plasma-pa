@@ -1,5 +1,9 @@
-plasma-pa (0) UNRELEASED; urgency=low
+plasma-pa (4:5.3.95-0ubuntu1) UNRELEASED; urgency=low
 
+  [ Debian/Kubuntu KDE Extras Team ]
   * Initial release
 
- -- Debian/Kubuntu KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>  Wed, 18 Mar 2015 13:19:03 +0100
+  [ Jonathan Riddell ]
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Aug 2015 18:36:32 +0200
