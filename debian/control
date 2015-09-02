@@ -35,13 +35,3 @@ Description: Plasma 5 Volume Controller -- Debug Symbols
  Volume controller for Plasma 5
  .
  Debugging symbols
-
-Package: plasma-volume-control
-Depends: plasma-pa, ${misc:Depends}
-Architecture: all
-Priority: extra
-Section: oldlibs
-Description: transitional dummy package
- This is a transitional dummy package. It can safely be removed.
- .
- Can be dropped after 2015-10.
