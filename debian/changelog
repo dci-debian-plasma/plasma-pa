@@ -1,6 +1,7 @@
 plasma-pa (5.4.0-1~) UNRELEASED; urgency=medium
 
   * Debian release.
+  * Update copyright file.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 00:13:21 +0200
 
