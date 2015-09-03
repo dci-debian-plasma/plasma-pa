@@ -1,9 +1,9 @@
-plasma-pa (5.4.0-1~) UNRELEASED; urgency=medium
+plasma-pa (5.4.0-1) unstable; urgency=medium
 
   * Initial Debian release.
   * Update copyright file.
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 00:13:21 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 18:46:56 +0200
 
 plasma-pa (4:5.4.0-0ubuntu1) wily; urgency=medium
 
