@@ -1,3 +1,9 @@
+plasma-pa (4:5.4.2-0ubuntu2) wily; urgency=medium
+
+  * Add kubuntu_install-kconf-update.diff
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 19 Oct 2015 23:01:33 +0100
+
 plasma-pa (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
 
   * Vivid backport
