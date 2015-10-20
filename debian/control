@@ -5,6 +5,7 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Build-Depends: cmake,
                debhelper (>= 8.0.0),
                extra-cmake-modules,
+               kdelibs-bin,
                kdoctools-dev,
                libglib2.0-dev,
                libkf5configwidgets-dev,

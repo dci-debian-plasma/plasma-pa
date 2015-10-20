@@ -1,3 +1,9 @@
+plasma-pa (4:5.4.2-0ubuntu3) wily; urgency=medium
+
+  * Add build-dep on kdelibs-bin for kde4-config
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 20 Oct 2015 16:21:57 +0100
+
 plasma-pa (4:5.4.2-0ubuntu2) wily; urgency=medium
 
   * Add kubuntu_install-kconf-update.diff
