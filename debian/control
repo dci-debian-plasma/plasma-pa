@@ -2,14 +2,15 @@ Source: plasma-pa
 Section: kde
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Build-Depends: cmake,
+Uploaders: Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 8.0.0),
-               extra-cmake-modules,
-               kdelibs-bin,
+               extra-cmake-modules (>= 0.0.14~),
                libglib2.0-dev,
                libkf5configwidgets-dev,
                libkf5coreaddons-dev,
                libkf5declarative-dev,
+               libkf5globalaccel-dev,
                libkf5i18n-dev,
                libpulse-dev,
                pkg-kde-tools,
@@ -18,12 +19,13 @@ Build-Depends: cmake,
                qtdeclarative5-dev
 Standards-Version: 3.9.6
 Homepage: http://www.kde.org
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/plasma-pa.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/plasma-pa.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/plasma-pa.git
 
 Package: plasma-pa
 Architecture: any
 Depends: pulseaudio, ${misc:Depends}, ${shlibs:Depends}
+Conflict: kmix
 Description: Plasma 5 Volume controller
  Volume controller for Plasma 5
 
@@ -36,13 +38,3 @@ Description: Plasma 5 Volume Controller -- Debug Symbols
  Volume controller for Plasma 5
  .
  Debugging symbols
-
-Package: plasma-volume-control
-Depends: plasma-pa, ${misc:Depends}
-Architecture: all
-Priority: extra
-Section: oldlibs
-Description: transitional dummy package
- This is a transitional dummy package. It can safely be removed.
- .
- Can be dropped after 2015-10.
