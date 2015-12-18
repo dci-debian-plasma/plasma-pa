@@ -1,11 +1,12 @@
-plasma-pa (4:5.4.3-0ubuntu2) UNRELEASED; urgency=medium
+plasma-pa (4:5.5.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * Debian Merge: Remaining changes:
   * Added conflict to kmix as the two installed at the same
     time renders plasma-pa unusable until kmix is disabled. 
   * Again in unstable branch. 
+  * New upstream release Xenial
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 11 Dec 2015 04:41:51 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 18 Dec 2015 09:18:41 -0800
 
 plasma-pa (5.4.3-1) unstable; urgency=medium
 
