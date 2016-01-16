@@ -26,7 +26,6 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/plasma-pa.git
 Package: plasma-pa
 Architecture: any
 Depends: pulseaudio, ${misc:Depends}, ${shlibs:Depends}
-Conflict: kmix
 Description: Plasma 5 Volume controller
  Volume controller for Plasma 5
 
