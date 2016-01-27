@@ -1,4 +1,4 @@
-plasma-pa (5.5.4-1~) UNRELEASED; urgency=medium
+plasma-pa (5.5.4-1) experimental; urgency=medium
 
   * New upstream release (5.5.0).
   * New upstream release (5.5.1).
@@ -6,7 +6,7 @@ plasma-pa (5.5.4-1~) UNRELEASED; urgency=medium
   * New upstream release (5.5.3).
   * New upstream release (5.5.4).
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 11:57:51 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 16:48:42 +0100
 
 plasma-pa (5.4.3-1) unstable; urgency=medium
 
