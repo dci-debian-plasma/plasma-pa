@@ -1,3 +1,11 @@
+plasma-pa (5.6.2-1~1.gbp1ce242) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @1ce2422c6db3fdcf52a042ceee09de3b0434351a **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:28:14 +0200
+
 plasma-pa (5.5.4-1) experimental; urgency=medium
 
   * New upstream release (5.5.0).
