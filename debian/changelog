@@ -1,10 +1,21 @@
-plasma-pa (5.6.2-1~1.gbp1ce242) UNRELEASED; urgency=medium
+plasma-pa (5.6.2-1~2.gbp4a211b) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @4a211bf25c673aabe50757d0523ec2f6d0bcf96d **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @1ce2422c6db3fdcf52a042ceee09de3b0434351a **
 
   * UNRELEASED
+  * New upstream release (5.5.5).
+  * Force installing in debian/tmp
+  * Automatic update with ddeb_migration3.py
+  * Add upstream metadata (DEP-12)
+  * Add lintian-overrides for libQPulseAudioPrivate.so
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 06 Apr 2016 23:28:14 +0200
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 17 Apr 2016 15:04:48 +0200
 
 plasma-pa (5.5.4-1) experimental; urgency=medium
 
