@@ -1,6 +1,6 @@
-plasma-pa (5.6.2-1~3.gbp3bfc01) UNRELEASED; urgency=medium
+plasma-pa (5.6.3-1~1.gbp08b0f0) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @3bfc012a65dd1bbd6536d5452ae39858e7556368 **
+  ** SNAPSHOT build @08b0f0e29460b921394f1c4293252d4711fb1abe **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @1ce2422c6db3fdcf52a042ceee09de3b0434351a **
@@ -12,11 +12,12 @@ plasma-pa (5.6.2-1~3.gbp3bfc01) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * Add lintian-overrides for libQPulseAudioPrivate.so
   * Add a .gitattributes file to use dpkg-mergechangelogs
+  * UNRELEASED
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 18 Apr 2016 19:28:14 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 19 Apr 2016 20:28:12 +0200
 
 plasma-pa (5.5.4-1) experimental; urgency=medium
 
