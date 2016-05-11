@@ -1,6 +1,6 @@
-plasma-pa (5.6.3-1~2.gbpd12785) UNRELEASED; urgency=medium
+plasma-pa (5.6.4-1~1.gbp0afd31) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @d12785ae426f39479ed5d13b9e21db89dc4ccbab **
+  ** SNAPSHOT build @0afd31dac4c72fa1b80f42d177bd60b38512fa0d **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @1ce2422c6db3fdcf52a042ceee09de3b0434351a **
@@ -14,11 +14,12 @@ plasma-pa (5.6.3-1~2.gbpd12785) UNRELEASED; urgency=medium
   * Add a .gitattributes file to use dpkg-mergechangelogs
   * UNRELEASED
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 11:28:18 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 02:28:11 +0200
 
 plasma-pa (5.5.4-1) experimental; urgency=medium
 
