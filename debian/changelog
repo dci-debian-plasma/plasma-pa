@@ -1,6 +1,6 @@
-plasma-pa (5.6.4-1~1.gbp0afd31) UNRELEASED; urgency=medium
+plasma-pa (5.6.4-1~2.gbpf015b2) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @0afd31dac4c72fa1b80f42d177bd60b38512fa0d **
+  ** SNAPSHOT build @f015b20af015ec0e318732162cc668087986902e **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @1ce2422c6db3fdcf52a042ceee09de3b0434351a **
@@ -15,11 +15,12 @@ plasma-pa (5.6.4-1~1.gbp0afd31) UNRELEASED; urgency=medium
   * UNRELEASED
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * UNRELEASED
+  * Add new lintian-override for the private library
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 02:28:11 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 11 May 2016 22:28:20 +0200
 
 plasma-pa (5.5.4-1) experimental; urgency=medium
 
