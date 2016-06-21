@@ -1,10 +1,8 @@
-plasma-pa (5.6.5-1~1.gbp02df1c) UNRELEASED; urgency=medium
+plasma-pa (5.6.5-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @02df1c097c817ef9b3cede7a893a62f7fc59d9b9 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 14 Jun 2016 20:28:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 21 Jun 2016 11:17:20 +0200
 
 plasma-pa (5.6.4-1) unstable; urgency=medium
 
