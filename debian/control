@@ -13,11 +13,11 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5declarative-dev,
                libkf5globalaccel-dev,
                libkf5i18n-dev,
-               libpulse-dev,
+               libpulse-dev (>= 5.0.0~),
                pkg-kde-tools,
                plasma-framework-dev,
-               qtbase5-dev,
-               qtdeclarative5-dev
+               qtbase5-dev (>= 5.4.0~),
+               qtdeclarative5-dev (>= 5.4.0~)
 Standards-Version: 3.9.8
 Homepage: http://www.kde.org
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/plasma-pa.git
