@@ -1,3 +1,11 @@
+plasma-pa (5.7.1-1~1.gbpa85018) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a850180bf7b55175e3e896da4c36a2cc7ca0b4d6 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 20:28:27 +0200
+
 plasma-pa (5.7.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
