@@ -1,12 +1,13 @@
-plasma-pa (5.7.3-1~1.gbp34c7c7) UNRELEASED; urgency=medium
+plasma-pa (5.7.4-1~1.gbpfbdc99) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @34c7c77cdad675f30b31292f6557b2a03bd73aab **
+  ** SNAPSHOT build @fbdc99247535849327366ba771c177812748a96d **
 
   * UNRELEASED
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 05 Aug 2016 12:49:55 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 24 Aug 2016 20:28:12 +0200
 
 plasma-pa (5.7.0-1) unstable; urgency=medium
 
