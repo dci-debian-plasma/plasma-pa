@@ -1,3 +1,11 @@
+plasma-pa (5.7.5-1~1.gbpf7cfdc) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @f7cfdc1684a91115c1e879294e74feba2ebcf82b **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 13 Sep 2016 20:28:36 +0200
+
 plasma-pa (5.7.4-1) unstable; urgency=medium
 
   * New upstream release (5.7.4)
