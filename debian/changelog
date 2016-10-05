@@ -1,3 +1,143 @@
+plasma-pa (4:5.8.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 30 Sep 2016 11:29:54 +0000
+
+plasma-pa (4:5.7.5-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 13 Sep 2016 13:47:29 +0000
+
+plasma-pa (4:5.7.4-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 23 Aug 2016 17:28:56 +0000
+
+plasma-pa (4:5.7.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 02 Aug 2016 12:04:34 +0000
+
+plasma-pa (4:5.7.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 19 Jul 2016 13:48:09 +0000
+
+plasma-pa (4:5.7.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 12 Jul 2016 16:06:56 +0000
+
+plasma-pa (4:5.7.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 04 Jul 2016 15:07:08 +0000
+
+plasma-pa (4:5.6.5-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 14 Jun 2016 14:14:25 +0000
+
+plasma-pa (4:5.6.4-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 May 2016 09:42:12 +0000
+
+plasma-pa (4:5.6.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 19 Apr 2016 16:55:22 +0000
+
+plasma-pa (4:5.6.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 08 Apr 2016 11:44:43 +0000
+
+plasma-pa (4:5.5.4-0ubuntu1) UNRELEASED; urgency=medium
+
+  [ Scarlett Clark ]
+  * Debian Merge: Remaining changes:
+  * Added conflict to kmix as the two installed at the same
+    time renders plasma-pa unusable until kmix is disabled. 
+  * Again in unstable branch. 
+  * New upstream release Xenial
+
+  [ Clive Johnston ]
+  * new upstream release
+  * New upstream release
+  * New upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Wed, 27 Jan 2016 20:17:49 +0000
+
+plasma-pa (5.4.3-1) unstable; urgency=medium
+
+  * New upstream release (5.4.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Dec 2015 11:45:34 +0100
+
+plasma-pa (4:5.4.3-0ubuntu1) xenial; urgency=medium
+
+  [ Scarlett Clark ]
+  * New upstream bugfix release
+
+  [ Philip Muškovac ]
+  * New upstream bugfix release (LP: #1518598)
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 22 Nov 2015 16:44:11 +0100
+
+plasma-pa (4:5.4.2-0ubuntu3) wily; urgency=medium
+
+  * Add build-dep on kdelibs-bin for kde4-config
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 20 Oct 2015 16:21:57 +0100
+
+plasma-pa (4:5.4.2-0ubuntu2) wily; urgency=medium
+
+  * Add kubuntu_install-kconf-update.diff
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 19 Oct 2015 23:01:33 +0100
+
+plasma-pa (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
+
+  * Vivid backport
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 05 Oct 2015 12:12:14 -0700
+
+plasma-pa (5.4.2-1) unstable; urgency=medium
+
+  * New upstream release (5.4.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Oct 2015 07:51:44 +0200
+
+plasma-pa (4:5.4.2-0ubuntu1) wily; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 02 Oct 2015 16:01:11 +0100
+
+plasma-pa (5.4.1-1) unstable; urgency=medium
+
+  * New upstream release (5.4.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 11 Sep 2015 18:44:51 +0200
+
+plasma-pa (4:5.4.1-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 08 Sep 2015 10:24:06 +0100
+
 plasma-pa (5.8.0-1~2.gbp8dad48) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @8dad483b7ba0d804c20749a5a2d4662a89d4efa0 **
@@ -58,24 +198,6 @@ plasma-pa (5.5.4-1) experimental; urgency=medium
   * New upstream release (5.5.4).
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 16:48:42 +0100
-
-plasma-pa (5.4.3-1) unstable; urgency=medium
-
-  * New upstream release (5.4.3).
-
- -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Dec 2015 11:45:34 +0100
-
-plasma-pa (5.4.2-1) unstable; urgency=medium
-
-  * New upstream release (5.4.2).
-
- -- Maximiliano Curia <maxy@debian.org>  Tue, 06 Oct 2015 07:51:44 +0200
-
-plasma-pa (5.4.1-1) unstable; urgency=medium
-
-  * New upstream release (5.4.1).
-
- -- Maximiliano Curia <maxy@debian.org>  Fri, 11 Sep 2015 18:44:51 +0200
 
 plasma-pa (5.4.0-1) unstable; urgency=medium
 
