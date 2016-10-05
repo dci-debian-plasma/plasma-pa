@@ -1,3 +1,11 @@
+plasma-pa (4:5.8.0-0neoo~1.gbp597bbd) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @597bbd216b2bd8352cbe75c62b16ad7cf378087f **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 05 Oct 2016 19:28:28 +0200
+
 plasma-pa (4:5.8.0-0neon) xenial; urgency=medium
 
   * New release
