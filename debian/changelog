@@ -1,3 +1,11 @@
+plasma-pa (4:5.8.2-1~1.gbp57d5ea) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @57d5ea62d202d2d3c64c0d25d23eb7fc8c083361 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 18 Oct 2016 20:28:24 +0200
+
 plasma-pa (4:5.8.1-1) unstable; urgency=medium
 
   * New upstream release (5.8.1)
