@@ -1,10 +1,11 @@
-plasma-pa (4:5.8.3-1~1.gbp654114) UNRELEASED; urgency=medium
+plasma-pa (4:5.8.4-1~1.gbp38b453) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @654114441ccfae03464095f5ef84c2c66217b95a **
+  ** SNAPSHOT build @38b4531d0837ea8f0b972933a9045c1fe7255edc **
 
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 01 Nov 2016 17:28:20 +0100
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 22 Nov 2016 19:18:20 +0100
 
 plasma-pa (4:5.8.2-1) unstable; urgency=medium
 
