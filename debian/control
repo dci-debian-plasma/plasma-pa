@@ -29,6 +29,7 @@ Package: plasma-pa
 Architecture: any
 Depends: plasma-framework,
          pulseaudio,
+         pulseaudio-module-gconf,
          qml-module-org-kde-draganddrop,
          qml-module-org-kde-kquickcontrolsaddons,
          qml-module-qtquick-controls,
