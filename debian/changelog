@@ -1,3 +1,13 @@
+plasma-pa (4:5.8.7-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.8.7)
+     + KCM: Fix 100% volume label position with RTL
+     + Context: Use DBus service watcher to reconnect to pulseaudio
+        Make sure to reconnect to pulseaudio after it crashes.
+        Fixes KDE#358772
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Jun 2017 13:09:59 +0200
+
 plasma-pa (4:5.8.6-1) unstable; urgency=medium
 
   * New upstream release (5.8.6)
