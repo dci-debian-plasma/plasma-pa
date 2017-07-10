@@ -10,16 +10,16 @@ Build-Depends: cmake (>= 2.8.12~),
                libgconf2-dev,
                libglib2.0-dev,
                libkf5configwidgets-dev (>= 5.18.0~),
-               libkf5coreaddons-dev (>= 5.18.0~),
-               libkf5declarative-dev (>= 5.18.0~),
-               libkf5doctools-dev,
-               libkf5globalaccel-dev (>= 5.18.0~),
-               libkf5i18n-dev (>= 5.18.0~),
-               libkf5plasma-dev,
+               libkf5coreaddons-dev (>= 5.30.0~),
+               libkf5declarative-dev (>= 5.30.0~),
+               libkf5doctools-dev (>= 5.30.0~),
+               libkf5globalaccel-dev (>= 5.30.0~),
+               libkf5i18n-dev (>= 5.30.0~),
+               libkf5plasma-dev (>= 5.30.0~),
                libpulse-dev (>= 5.0.0~),
                pkg-kde-tools,
-               qtbase5-dev (>= 5.4.0~),
-               qtdeclarative5-dev (>= 5.4.0~)
+               qtbase5-dev (>= 5.7.0~),
+               qtdeclarative5-dev (>= 5.7.0~)
 Standards-Version: 3.9.8
 Homepage: http://www.kde.org
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/plasma/plasma-pa.git
