@@ -1,4 +1,4 @@
-plasma-pa (4:5.10.4-1~) UNRELEASED; urgency=medium
+plasma-pa (4:5.10.5-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.10.3).
   * Update build-deps and deps with the info from cmake
@@ -6,8 +6,10 @@ plasma-pa (4:5.10.4-1~) UNRELEASED; urgency=medium
   * Update upstream metadata
   * Sync debian/watch with neon
   * New upstream release (5.10.4).
+  * Update build-deps and deps with the info from cmake
+  * New upstream release (5.10.5).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 17 Aug 2017 13:28:58 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 27 Aug 2017 12:51:12 +0200
 
 plasma-pa (4:5.8.7-1) unstable; urgency=medium
 
